@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-안녕하세요, 권정입니다! INTJ이고요, 마시마로 닮았습니다 잘부탁드립니당
 <!--
 **kjung0109/kjung0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
