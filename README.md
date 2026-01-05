@@ -4,6 +4,11 @@
 Backend · Blockchain Developer
 ---
 
+## 🔑 Final Vocabulary: 신뢰
+시스템이 제공하는 결과가 사용자와 운영자 모두에게 일관되게 신뢰할 수 있어야 한다고 생각합니다. 
+
+---
+
 ## 📝 Projects
 - **AI 불법주차 탐지 시스템**  
   YOLOv8 객체 탐지를 활용한 불법 주차 자동 판별 서비스  
